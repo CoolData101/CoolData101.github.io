@@ -9,18 +9,17 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - projects
+      title: Projects
+      text: |
+        ## Coming Soon!
+        
+        I'm currently working on exciting projects in AI development, orthotics care, and agriculture systems. Check back soon to see my latest work!
+        
+        ### Recent Work
+        - **Lawgic**: AI-driven web application for public defenders (2024-2025)
+        - **Research**: AI development in orthotics care and agriculture systems
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+      columns: 1
 ---
