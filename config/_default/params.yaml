@@ -22,8 +22,7 @@ hugoblox:
     tagline: ""
     # Site meta description for search engines and social sharing
     description: "Andres Tejeda-Patino - Freshman at UC Riverside pursuing engineering with research in AI development in orthotics care and agriculture systems."
-    # Site favicon
-    favicon: "favicon.png"
+
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
