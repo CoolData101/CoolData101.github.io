@@ -1,0 +1,62 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+avatar: https://github.com/CoolData101.png
+name:
+  display: Andres T.
+  given: Andres
+  family: T.
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+status:
+  icon: "🤖"
+role: Student
+bio: |
+  Nothing much happening
+
+affiliations:
+  - name: UC Riverside
+    url: https://www.ucr.edu/
+
+links:
+  - icon: brands/github
+    url: https://github.com/CoolData101
+    label: GitHub
+
+interests:
+  - Robotics
+  - Technology
+  - Innovation
+
+education:
+  - degree: Major in Robotics
+    institution: UC Riverside
+    start: 2021-09-01
+    summary: |
+      Currently pursuing a degree in Robotics at UC Riverside.
+
+experience:
+  - role: Intern
+    org: Paradigm Enhancement Reality Labs
+    start: 2023-08-01
+    summary: |
+      Internship at Paradigm Enhancement Reality Labs focusing on emerging technologies and innovation.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Robotics
+        level: 3
+      - label: Programming
+        level: 3
+      - label: Problem Solving
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+
+awards: []
