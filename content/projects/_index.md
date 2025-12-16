@@ -9,17 +9,19 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
+  - block: collection
     content:
-      title: Projects
+      title: Featured Projects
       text: |
-        ## Coming Soon!
-        
-        I'm currently working on exciting projects in AI development, orthotics care, and agriculture systems. Check back soon to see my latest work!
-        
-        ### Recent Work
-        - **Lawgic**: AI-driven web application for public defenders (2024-2025)
-        - **Research**: AI development in orthotics care and agriculture systems
+        Explore my work in AI development, IoT systems, and technology innovation. These projects demonstrate my commitment to applying engineering principles to solve real-world problems in agriculture, legal technology, and environmental monitoring.
+      filters:
+        folders:
+          - projects
     design:
-      columns: 1
+      view: article-grid
+      fill_image: false
+      columns: 2
+      show_date: true
+      show_read_time: true
+      show_read_more: true
 ---

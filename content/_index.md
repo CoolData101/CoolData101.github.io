@@ -16,8 +16,8 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: ''
-        url: ''
+        text: Connect on LinkedIn
+        url: https://www.linkedin.com/in/andres-tp/
       headings:
         about: ''
         education: ''

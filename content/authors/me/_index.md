@@ -43,6 +43,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/CoolData101
     label: Follow me on GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/andres-tp/
+    label: Connect on LinkedIn
 
 # Interests to show in About widget
 interests:
@@ -72,6 +75,14 @@ work:
     date_end: '2025-01-01'
     summary: |2-
         Co-founded Lawgic, an AI-driven web application curated for public defenders. Led development of features that streamline defender workflows by providing valuable suggestions, concise summaries, and document analysis.
+  - position: Intern
+    company_name: Paradigm Enhancement Reality Labs
+    company_url: ''
+    company_logo: ''
+    date_start: '2023-08-01'
+    date_end: ''
+    summary: |2-
+        Remote internship focused on emerging technologies and innovation in reality enhancement systems. Gained hands-on experience with cutting-edge technology development and research methodologies.
 
 # Skills
 # Add/remove as many `feature` blocks below as you like.

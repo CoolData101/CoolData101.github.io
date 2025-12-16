@@ -24,6 +24,9 @@ links:
   - icon: brands/github
     url: https://github.com/CoolData101
     label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/andres-tp/
+    label: LinkedIn
 
 interests:
   - AI Development
@@ -52,6 +55,11 @@ experience:
     end: 2025-01-01
     summary: |
       Co-founded Lawgic, an AI-driven web application curated for public defenders. Led development of features that streamline defender workflows by providing valuable suggestions, concise summaries, and document analysis. Skills: Leadership, Artificial Intelligence (AI).
+  - role: Intern
+    org: Paradigm Enhancement Reality Labs
+    start: 2023-08-01
+    summary: |
+      Remote internship focused on emerging technologies and innovation in reality enhancement systems. Gained hands-on experience with cutting-edge technology development and research methodologies.
 
 skills:
   - name: Technical Skills
