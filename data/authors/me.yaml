@@ -3,18 +3,18 @@ slug: me
 is_owner: true
 avatar: https://github.com/CoolData101.png
 name:
-  display: Andres T.
+  display: Andres Tejeda-Patino
   given: Andres
-  family: T.
+  family: Tejeda-Patino
   alternate: ''
   pronunciation: ''
   pronouns: he/him
 postnominals: []
 status:
-  icon: "🤖"
-role: Student
+  icon: "🏫"
+role: Freshman at UC Riverside
 bio: |
-  Nothing much happening
+  Pursuing engineering with research in AI development in orthotics care as well as agriculture systems.
 
 affiliations:
   - name: UC Riverside
@@ -26,33 +26,46 @@ links:
     label: GitHub
 
 interests:
+  - AI Development
+  - Orthotics Care
+  - Agriculture Systems
   - Robotics
-  - Technology
-  - Innovation
+  - Engineering
 
 education:
-  - degree: Major in Robotics
-    institution: UC Riverside
-    start: 2021-09-01
+  - degree: Robotics
+    institution: University of California, Riverside
+    start: 2025-09-01
     summary: |
-      Currently pursuing a degree in Robotics at UC Riverside.
+      Freshman pursuing Robotics degree with focus on AI development applications.
+  - degree: High School Diploma
+    institution: Dixon High School
+    start: 2021-09-01
+    end: 2025-06-01
+    summary: |
+      Grade: 3.78 (W). Activities: Robotics Club, Boys Volleyball, Vice President of Korean Language Club, Book Club, Dual-Enrollment at Solano Community College. AP courses: Language & Composition, Computer Science Principles, World History.
 
 experience:
-  - role: Intern
-    org: Paradigm Enhancement Reality Labs
-    start: 2023-08-01
+  - role: Chief Executive Officer / Co-Founder
+    org: Lawgic
+    start: 2024-07-01
+    end: 2025-01-01
     summary: |
-      Internship at Paradigm Enhancement Reality Labs focusing on emerging technologies and innovation.
+      Co-founded Lawgic, an AI-driven web application curated for public defenders. Led development of features that streamline defender workflows by providing valuable suggestions, concise summaries, and document analysis. Skills: Leadership, Artificial Intelligence (AI).
 
 skills:
   - name: Technical Skills
     items:
+      - label: Artificial Intelligence (AI)
+        level: 4
+      - label: Leadership
+        level: 4
       - label: Robotics
         level: 3
       - label: Programming
         level: 3
-      - label: Problem Solving
-        level: 4
+      - label: Multimedia Project Management
+        level: 3
 
 languages:
   - name: English

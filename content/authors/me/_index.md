@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andres T.
+title: Andres Tejeda-Patino
 
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Andres
-last_name: T.
+last_name: Tejeda-Patino
 
 # Status emoji
 status:
-  icon: 🤖
+  icon: 🏫
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,7 +27,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Freshman at UC Riverside
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -35,7 +35,7 @@ organizations:
     url: https://www.ucr.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Nothing much happening
+bio: Pursuing engineering with research in AI development in orthotics care as well as agriculture systems.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,27 +46,32 @@ profiles:
 
 # Interests to show in About widget
 interests:
+  - AI Development
+  - Orthotics Care
+  - Agriculture Systems
   - Robotics
-  - Technology
-  - Innovation
+  - Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - course: Major in Robotics
-      institution: UC Riverside
-      year: 2021-Present
+    - course: Robotics
+      institution: University of California, Riverside
+      year: 2025-Present
+    - course: High School Diploma
+      institution: Dixon High School
+      year: 2021-2025
 
 # Work experience
 work:
-  - position: Intern
-    company_name: Paradigm Enhancement Reality Labs
+  - position: Chief Executive Officer / Co-Founder
+    company_name: Lawgic
     company_url: ''
     company_logo: ''
-    date_start: '2023-08-01'
-    date_end: ''
+    date_start: '2024-07-01'
+    date_end: '2025-01-01'
     summary: |2-
-        Internship at Paradigm Enhancement Reality Labs focusing on emerging technologies and innovation.
+        Co-founded Lawgic, an AI-driven web application curated for public defenders. Led development of features that streamline defender workflows by providing valuable suggestions, concise summaries, and document analysis.
 
 # Skills
 # Add/remove as many `feature` blocks below as you like.
@@ -74,6 +79,14 @@ work:
 skills:
   - name: Technical
     items:
+      - name: Artificial Intelligence (AI)
+        description: ''
+        percent: 80
+        icon: cpu-chip
+      - name: Leadership
+        description: ''
+        percent: 80
+        icon: user-group
       - name: Robotics
         description: ''
         percent: 60
@@ -82,10 +95,10 @@ skills:
         description: ''
         percent: 60
         icon: code-bracket
-      - name: Problem Solving
+      - name: Multimedia Project Management
         description: ''
-        percent: 80
-        icon: puzzle-piece
+        percent: 60
+        icon: document-text
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -96,6 +109,8 @@ awards: []
 
 ## About Me
 
-I'm a Robotics student at UC Riverside with a passion for technology and innovation. Currently gaining hands-on experience through my internship at Paradigm Enhancement Reality Labs.
+I'm a freshman at UC Riverside pursuing engineering with research in AI development in orthotics care as well as agriculture systems. 
 
-Always exploring new technologies and working on interesting projects. Check out my GitHub for some of my work!
+Previously co-founded Lawgic, an AI-driven web application for public defenders that streamlines workflows through intelligent suggestions, summaries, and document analysis.
+
+Always exploring new technologies and working on innovative projects. Check out my GitHub for some of my work!

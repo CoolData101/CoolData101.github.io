@@ -36,16 +36,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '🤖 About Me'
-      subtitle: ''
-      text: |-
-        I'm a Robotics student at UC Riverside with a passion for technology and innovation. Currently gaining hands-on experience through my internship at Paradigm Enhancement Reality Labs.
 
-        Always exploring new technologies and working on interesting projects. Check out my GitHub for some of my work!
-    design:
-      columns: '1'
 
 
 ---
