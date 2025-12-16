@@ -7,7 +7,7 @@ authors:
   - me
 
 # Avatar image (GitHub profile picture)
-avatar: https://github.com/CoolData101.png
+avatar: me.jpg
 
 # Name pronunciation (optional)
 name_pronunciation: ''

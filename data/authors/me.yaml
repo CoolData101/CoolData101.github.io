@@ -1,7 +1,7 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
-avatar: https://github.com/CoolData101.png
+avatar: me.jpg  
 name:
   display: Andres Tejeda-Patino
   given: Andres
