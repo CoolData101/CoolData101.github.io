@@ -2,6 +2,13 @@
 # Display name
 title: Andres T.
 
+# Username (this should match the folder name)
+authors:
+  - me
+
+# Avatar image (GitHub profile picture)
+avatar: https://github.com/CoolData101.png
+
 # Name pronunciation (optional)
 name_pronunciation: ''
 
@@ -49,6 +56,17 @@ education:
     - course: Major in Robotics
       institution: UC Riverside
       year: 2021-Present
+
+# Work experience
+work:
+  - position: Intern
+    company_name: Paradigm Enhancement Reality Labs
+    company_url: ''
+    company_logo: ''
+    date_start: '2023-08-01'
+    date_end: ''
+    summary: |2-
+        Internship at Paradigm Enhancement Reality Labs focusing on emerging technologies and innovation.
 
 # Skills
 # Add/remove as many `feature` blocks below as you like.
