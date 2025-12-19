@@ -120,8 +120,8 @@ awards: []
 
 ## About Me
 
-I'm a freshman at UC Riverside pursuing engineering with research in AI development in orthotics care as well as agriculture systems. 
+I'm a freshman at UC Riverside passionate about engineering and AI. My work focuses on practical applications—from AI-driven legal tools to IoT systems for agriculture. 
 
-Previously co-founded Lawgic, an AI-driven web application for public defenders that streamlines workflows through intelligent suggestions, summaries, and document analysis.
+I previously co-founded Lawgic, where we built tools to help public defenders manage their heavy caseloads. Currently, I'm researching how AI can improve orthotics care and agricultural efficiency.
 
-Always exploring new technologies and working on innovative projects. Check out my GitHub for some of my work!
+I love building things that solve real problems. Check out my projects below or connect with me on GitHub!

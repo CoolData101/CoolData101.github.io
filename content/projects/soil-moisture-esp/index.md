@@ -48,81 +48,21 @@ slides: ''
 
 ## Project Overview
 
-The Smart Plant Care System is an innovative IoT solution designed to optimize plant health through continuous environmental monitoring. This ESP32-based system integrates multiple sensors to track soil moisture, ambient humidity, and temperature, providing users with real-time data and intelligent recommendations for plant care.
+Maintaining optimal plant health often involves guesswork. This ESP32-based IoT system removes that uncertainty by continuously monitoring soil moisture, temperature, and humidity. It provides real-time data and automated alerts, ensuring plants receive the exact care they need without over-watering or neglect.
 
-## Technical Implementation
+## Key Features
 
-### Hardware Components
-- **ESP32 Microcontroller**: Core processing unit with built-in Wi-Fi capabilities
-- **Soil Moisture Sensor**: Capacitive sensor for accurate soil moisture detection
-- **DHT22 Sensor**: High-precision digital temperature and humidity sensor
-- **OLED Display**: Real-time data visualization
-- **Water Pump Module**: Automated watering system (optional)
+- **Real-time Monitoring**: Tracks soil moisture, ambient temperature, and humidity 24/7.
+- **Smart Alerts**: Notifies users immediately when conditions fall outside optimal ranges.
+- **OLED Dashboard**: Instant visual feedback on current sensor readings.
+- **Remote Access**: Wi-Fi connectivity allows for monitoring from anywhere.
 
-### Key Features
-- **Real-time Monitoring**: Continuous tracking of soil moisture, temperature, and humidity
-- **Smart Notifications**: Automated alerts when plants require attention
-- **Environmental Analysis**: Temperature threshold monitoring to ensure optimal growing conditions
-- **Data Logging**: Historical data collection for plant care optimization
-- **Remote Access**: Wi-Fi connectivity for mobile monitoring
+## Technical Architecture
 
-## Problem Statement
+- **Microcontroller**: ESP32 handling sensor data fusion and Wi-Fi communication.
+- **Sensors**: Capacitive soil moisture sensor (corrosion-resistant) and DHT22 for environment metrics.
+- **Power**: Optimized deep-sleep cycles to extend battery life for wireless deployment.
 
-Traditional plant care relies on guesswork and manual monitoring, often leading to:
-- Over-watering or under-watering
-- Suboptimal growing conditions
-- Plant stress due to temperature fluctuations
-- Lack of consistent care routines
+## Impact
 
-## Solution Architecture
-
-The system addresses these challenges through:
-
-1. **Automated Monitoring**: Eliminates guesswork with precise sensor readings
-2. **Intelligent Alerts**: Proactive notifications prevent plant stress
-3. **Environmental Optimization**: Temperature and humidity tracking ensures ideal growing conditions
-4. **User-Friendly Interface**: Simple, accessible data presentation
-
-## Impact and Applications
-
-### Agricultural Benefits
-- Improved crop yield through optimized watering schedules
-- Reduced water waste through precision irrigation
-- Enhanced plant health monitoring capabilities
-
-### Educational Value
-- Demonstrates practical IoT applications in agriculture
-- Showcases sensor integration and data analysis
-- Provides hands-on experience with embedded systems
-
-### Scalability Potential
-- Expandable to multiple plant monitoring
-- Integration with smart home systems
-- Commercial greenhouse applications
-
-## Technical Challenges Overcome
-
-- **Sensor Calibration**: Achieved accurate soil moisture readings across different soil types
-- **Power Management**: Optimized ESP32 sleep modes for extended battery life
-- **Data Reliability**: Implemented error handling and sensor validation
-- **User Experience**: Designed intuitive alert system and data visualization
-
-## Future Enhancements
-
-- Machine learning integration for predictive plant care
-- Mobile application development
-- Solar power integration for outdoor deployment
-- Multi-plant monitoring dashboard
-- Integration with weather APIs for comprehensive environmental analysis
-
-## Skills Demonstrated
-
-- **Embedded Systems Programming**: ESP32 development with Arduino IDE
-- **Sensor Integration**: Multi-sensor data fusion and calibration
-- **IoT Development**: Wi-Fi connectivity and remote monitoring
-- **Problem-Solving**: Addressing real-world agricultural challenges
-- **Project Management**: End-to-end system development and testing
-
----
-
-*This project represents my commitment to applying technology for sustainable agriculture and environmental stewardship, combining engineering principles with practical problem-solving to create meaningful solutions.*
+This system prevents water waste and plant stress, demonstrating how simple IoT solutions can have a practical impact on sustainable agriculture and home gardening.

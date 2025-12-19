@@ -1,0 +1,42 @@
+/* Custom Styles for Skills & Hobbies */
+
+// Target the skills section (usually a list in the 'About' or 'Experience' widget)
+.feature-card {
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    
+    .icon {
+      color: var(--primary);
+      transform: scale(1.1);
+    }
+  }
+}
+
+// If skills are rendered as a simple list, turn them into pills
+.ul-skills {
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+  padding: 0;
+  
+  li {
+    background: var(--light-gray); // fallback
+    background: rgba(var(--primary-rgb), 0.1);
+    color: var(--primary);
+    padding: 0.5rem 1rem;
+    border-radius: 9999px; // pill shape
+    font-weight: 500;
+    transition: all 0.2s ease;
+    cursor: default;
+    
+    &:hover {
+      background: var(--primary);
+      color: white;
+      transform: scale(1.05);
+    }
+  }
+}
